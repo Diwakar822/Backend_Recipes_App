@@ -1,5 +1,5 @@
 
-------------------------------------------------------------------> Recipes App - Node.js, Express.js, Mongoose <------------------------------------------------------------------
+ Recipes App - Node.js, Express.js, Mongoose 
 
 
 === > A full-stack CRUD application for managing recipes. Built with Node.js, Express.js, and MongoDB using Mongoose. 
